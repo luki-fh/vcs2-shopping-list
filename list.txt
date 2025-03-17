@@ -2,3 +2,7 @@ aepfel
 birnen
 bier
 leberkaaas
+chips 
+wurst
+kaese
+
