@@ -12,3 +12,4 @@ tomaten
 gurkerl
 paprika
 salad
+brot
